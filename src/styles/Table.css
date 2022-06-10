@@ -1,0 +1,11 @@
+.tableBorder {
+    border: 1px solid black;
+}
+
+.tablePadding {
+    padding: 8px;
+}
+
+.tableDisplay {
+    display: flex;
+}
